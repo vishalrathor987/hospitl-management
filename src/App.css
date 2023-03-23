@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+.ftco-section{
+  background-image: url(https://wallpaperaccess.com/full/1282794.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: left;
+  height: 100vh;
+}
+
+
+
+.login-wrap {
+    position: relative;
+    background: rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+    box-shadow: rgba(255, 255, 255, 0.85) 0px 16px 39px -21px;
+}
+.form-group {
+  margin-bottom: 1rem;
+}
+
+
